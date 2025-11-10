@@ -1,5 +1,5 @@
 <!-- Banner at the top -->
-![Salesforce Banner](https://raw.githubusercontent.com/jishnujanardhanan-t/jishnujanardhanan-t/main/Assets/banner.png)
+![Salesforce Banner](https://github.com/jishnujanardhanan-t/jishnujanardhanan-t/blob/main/bg4.png?raw=true)
 
 # Hi, I'm Jishnu Janardhanan 👋
 **Salesforce Admin & Developer | LWC, Apex, Flows | Trailhead Ranger**
