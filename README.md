@@ -31,4 +31,4 @@ Salesforce Developer | Lightning Web Components | Apex & Flows | Trailhead Range
 ---
 
 ## Connect with me
-[LinkedIn](https://linkedin.com/in/<jishnu-janardhanan-t>) | [Email](mailto:jishnujanan222@gmail.com)
+[LinkedIn](https://linkedin.com/in/jishnu-janardhanan-t) | [Email](mailto:jishnujanan222@gmail.com)
