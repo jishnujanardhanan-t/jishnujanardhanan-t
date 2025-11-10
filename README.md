@@ -4,7 +4,7 @@ Salesforce Admin & Developer | LWC, Apex, Flows | Trailhead Ranger
 ---
 
 ## 🔹 About Me
-I am a passionate Salesforce professional skilled in both **administration and development**. I love creating solutions that **automate business processes, enhance user experience, and improve productivity**.  
+I am a Salesforce professional skilled in both **administration and development**. I love creating solutions that **automate business processes, enhance user experience, and improve productivity**.  
 
 - 🌱 Currently building advanced **Lightning Web Components** and **Apex integrations**  
 - 💬 Ask me about Salesforce Admin features, Apex, or Lightning Development  
