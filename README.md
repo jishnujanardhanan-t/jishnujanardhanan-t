@@ -1,29 +1,33 @@
 # Hi, I'm Jishnu Janardhanan 👋
-Salesforce Developer | Lightning Web Components | Apex & Flows | Trailhead Ranger
+Salesforce Admin & Developer | LWC, Apex, Flows | Trailhead Ranger
 
 ---
 
 ## 🔹 About Me
-Passionate Salesforce Developer building scalable solutions with Apex, LWC, and Flows.  
-I enjoy automating business processes, enhancing user experience, and learning new Salesforce features.  
+I am a passionate Salesforce professional skilled in both **administration and development**. I love creating solutions that **automate business processes, enhance user experience, and improve productivity**.  
 
-- 🌱 Currently improving LWC components and Apex integrations  
-- 💬 Ask me about Salesforce, Apex, or Lightning development  
-- ⚡ Fun fact: Trailhead Ranger with 100+ badges  
+- 🌱 Currently building advanced **Lightning Web Components** and **Apex integrations**  
+- 💬 Ask me about Salesforce Admin features, Apex, or Lightning Development  
+- ⚡ Trailhead Ranger with 100+ badges  
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### **Salesforce**
-![Apex](https://img.shields.io/badge/Apex-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
+### **Salesforce Administration**
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-FF5A5F?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud-FF5A5F?style=for-the-badge&logo=salesforce&logoColor=white)
+![Process Builder](https://img.shields.io/badge/Process_Builder-00C0FF?style=for-the-badge)
 ![Flows](https://img.shields.io/badge/Flows-00C0FF?style=for-the-badge)
+![Reports & Dashboards](https://img.shields.io/badge/Reports_&_Dashboards-FFAA00?style=for-the-badge)
 
-### **Programming & Tools**
+### **Salesforce Development**
+![Apex](https://img.shields.io/badge/Apex-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-FF5A5F?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Other Tools & Languages**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,18 +39,19 @@ I enjoy automating business processes, enhancing user experience, and learning n
 ## 🚀 Featured Projects
 
 ### [Contact Manager App](https://github.com/<your-username>/Contact-Manager-App)
-- Manage contacts & accounts with CRUD operations
-- Search, filter, and sort contacts
-- Built with **LWC + Apex + SOQL**
+- Manage Contacts & Accounts with CRUD operations  
+- Search, filter, and sort contacts  
+- Built with **LWC + Apex + SOQL**  
 
 ### [Expense Tracker App](https://github.com/<your-username>/Expense-Tracker-App)
-- Track personal/business expenses
-- Categorize, visualize monthly reports
-- Built with **LWC + Apex + Flows**
+- Track expenses, categorize, and generate monthly reports  
+- Built with **LWC + Apex + Flows**  
 
 ### [Opportunity Dashboard](https://github.com/<your-username>/Opportunity-Dashboard)
-- Visualize opportunities with charts & filters
-- Built with **LWC + Apex + Lightning Design System**
+- Visualize Opportunity data with charts & filters  
+- Built with **LWC + Apex + Lightning Design System**  
+
+> 💡 Tip: Each project demonstrates both **Admin automation** (custom objects, flows) and **Dev skills** (Apex, LWC).
 
 ---
 
@@ -59,7 +64,14 @@ I enjoy automating business processes, enhancing user experience, and learning n
 
 ---
 
+## 🏆 Achievements & Certifications
+- Trailhead Ranger: 100+ badges  
+- Salesforce Administrator Certified (if you have it, add badge)  
+- Salesforce Platform Developer I (if applicable)  
+
+---
+
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/<your-link>) | [Email](mailto:your-email@example.com) | [Trailhead](https://trailhead.salesforce.com/en/me/<your-trailhead-username>)
+[LinkedIn](https://linkedin.com/in/jishnu-janardhanan-t) | [Email](mailto:jishnujanan222@gmail.com) | [Trailhead](https://www.salesforce.com/trailblazer/jishnujanardhanant)
 
 ---
