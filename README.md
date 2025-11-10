@@ -52,10 +52,10 @@ I enjoy automating business processes, enhancing user experience, and learning n
 
 ## 📊 GitHub Stats
 
-![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=<your-username>&theme=react-dark&hide_border=true)
+![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnujanardhanan-t&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishnujanardhanan-t&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jishnujanardhanan-t&theme=radical)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=jishnujanardhanan-t&theme=react-dark&hide_border=true)
 
 ---
 
