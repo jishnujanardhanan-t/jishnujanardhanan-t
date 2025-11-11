@@ -109,7 +109,7 @@ I am a Salesforce professional skilled in both **administration and development*
   <a href="https://github.com/JishnuJanardhanan-t" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="(https://www.salesforce.com/trailblazer/jishnujanardhanant)" target="_blank">
+  <a href="([https://www.salesforce.com/trailblazer/jishnujanardhanant](https://www.salesforce.com/trailblazer/jishnujanardhanant))" target="_blank">
     <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   </a>
 </p>
