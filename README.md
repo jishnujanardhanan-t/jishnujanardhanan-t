@@ -90,7 +90,7 @@ I am a Salesforce professional skilled in both **administration and development*
 ---
 
 ## 🤝 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jishnu-janardhanan-t/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -107,7 +107,7 @@ I am a Salesforce professional skilled in both **administration and development*
 
 ---
 
-<p align="center">
+<p align="left">
   <i>“Code with purpose, learn with curiosity, and build for impact.”</i>
 </p>
 
