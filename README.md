@@ -19,9 +19,13 @@ I am a Salesforce professional skilled in both **administration and development*
 ## 🛠️ Skills & Technologies
 
 ### Salesforce Administration
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Platform](https://img.shields.io/badge/Salesforce%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-FF5A5F?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Service Cloud](https://img.shields.io/badge/Service_Cloud-FF5A5F?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-FF5A5F?style=for-the-badge&logo=salesforce&logoColor=white)
+![Process Builder](https://img.shields.io/badge/Process%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![User Management](https://img.shields.io/badge/User%20Management-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00C0FF?style=for-the-badge)
 ![Reports & Dashboards](https://img.shields.io/badge/Reports_&_Dashboards-FFAA00?style=for-the-badge)
 ![Trailhead Ranger](https://img.shields.io/badge/Trailhead-Ranger-brightgreen?style=for-the-badge&logo=salesforce)
@@ -31,6 +35,10 @@ I am a Salesforce professional skilled in both **administration and development*
 ![LWC](https://img.shields.io/badge/LWC-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-FF5A5F?style=for-the-badge)
 ![SOSL](https://img.shields.io/badge/SOSL-FF5A5F?style=for-the-badge)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Force.com Platform](https://img.shields.io/badge/Force.com%20Platform-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-00A1E0?style=for-the-badge&logo=apachespark&logoColor=white)
+![APIs & Integrations](https://img.shields.io/badge/APIs%20%26%20Integrations-00A1E0?style=for-the-badge&logo=plug&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -41,6 +49,7 @@ I am a Salesforce professional skilled in both **administration and development*
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🧰 Tools & Platforms
+![Salesforce CLI](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=terminal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,7 +57,8 @@ I am a Salesforce professional skilled in both **administration and development*
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & Deployment
+![Salesforce Cloud](https://img.shields.io/badge/Salesforce%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -56,7 +66,6 @@ I am a Salesforce professional skilled in both **administration and development*
 ---
 
 ### Other Tools & Languages
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
