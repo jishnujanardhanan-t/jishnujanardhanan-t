@@ -1,8 +1,9 @@
-<!-- Banner at the top -->
-![Salesforce Banner](https://github.com/jishnujanardhanan-t/jishnujanardhanan-t/blob/main/bg4.png?raw=true)
-
 # Hi, I'm Jishnu Janardhanan 👋
 **Salesforce Admin & Developer | LWC, Apex, Flows | Trailhead Ranger**
+
+---
+<!-- Banner at the top -->
+![Salesforce Banner](https://github.com/jishnujanardhanan-t/jishnujanardhanan-t/blob/main/bg4.png?raw=true)
 
 ---
 
@@ -57,15 +58,6 @@ I am a passionate Salesforce professional skilled in both **administration and d
 - Built with **LWC + Apex + Lightning Design System**  
 
 > 💡 Each project demonstrates **both Admin automation** (custom objects, flows, Experience Cloud) and **Dev skills** (Apex, LWC, SOSL, SOQL).
-
----
-
-## 📊 GitHub Stats
-
-![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jishnujanardhanan-t&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jishnujanardhanan-t&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jishnujanardhanan-t&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=jishnujanardhanan-t&theme=react-dark&hide_border=true)
 
 ---
 
