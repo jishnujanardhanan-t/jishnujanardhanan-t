@@ -1,5 +1,5 @@
 # Hi, I'm Jishnu Janardhanan 👋
-**Salesforce Admin & Developer | LWC, Apex, Flows | Trailhead Ranger**
+**Salesforce Admin & Developer | LWC, Apex, Triggers, Flows | Double Star Ranger 🌟🌟**
 
 ---
 <!-- Banner at the top -->
@@ -12,7 +12,7 @@ I am a Salesforce professional skilled in both **administration and development*
 
 - 🌱 Currently building advanced **Lightning Web Components** and **Apex integrations**  
 - 💬 Ask me about Salesforce Admin features, Apex, or Lightning Development  
-- ⚡ Trailhead Ranger with 100+ badges  
+- ⚡ Double Star Ranger with **210 badges** and **7 Superbadges**  
 
 ---
 
@@ -28,7 +28,7 @@ I am a Salesforce professional skilled in both **administration and development*
 ![User Management](https://img.shields.io/badge/User%20Management-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00C0FF?style=for-the-badge)
 ![Reports & Dashboards](https://img.shields.io/badge/Reports_&_Dashboards-FFAA00?style=for-the-badge)
-![Trailhead Ranger](https://img.shields.io/badge/Trailhead-Ranger-brightgreen?style=for-the-badge&logo=salesforce)
+![Double Star Ranger](https://img.shields.io/badge/Trailhead-Double%20Star%20Ranger-FFD700?style=for-the-badge&logo=salesforce)
 
 ### Salesforce Development
 ![Apex](https://img.shields.io/badge/Apex-179CFF?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -74,17 +74,14 @@ I am a Salesforce professional skilled in both **administration and development*
 
 ## 🚀 Featured Projects
 
-### [Contact Manager App](https://github.com/<your-username>/Contact-Manager-App)
-- Manage Contacts & Accounts with CRUD operations  
-- Search, filter, and sort contacts  
-- Built with **LWC + Apex + SOQL**  
+### [Real Estate Management System](https://github.com/<your-username>/Real-Estate-Management-System)
+- Manage properties, clients, and sales pipelines  
+- Automated workflows for lead assignment & property approvals  
+- Built with **LWC + Apex + Flows + SOQL**  
 
-### [Expense Tracker App](https://github.com/<your-username>/Expense-Tracker-App)
-- Track expenses, categorize, and generate monthly reports  
-- Built with **LWC + Apex + Flows**  
-
-### [Opportunity Dashboard](https://github.com/<your-username>/Opportunity-Dashboard)
-- Visualize Opportunity data with charts & filters  
+### [HR Management System](https://github.com/<your-username>/HR-Management-System)
+- Employee onboarding, leave management, and performance tracking  
+- Custom dashboards and automated HR processes using **Flows & Apex**  
 - Built with **LWC + Apex + Lightning Design System**  
 
 > 💡 Each project demonstrates **both Admin automation** (custom objects, flows, Experience Cloud) and **Dev skills** (Apex, LWC, SOSL, SOQL).
@@ -92,8 +89,8 @@ I am a Salesforce professional skilled in both **administration and development*
 ---
 
 ## 🏆 Achievements & Certifications
-- Trailhead Ranger  
-- Salesforce Superbadges 
+- **Double Star Ranger 🌟🌟** – 210 badges  
+- 7 Salesforce Superbadges  
 - Salesforce Agentblazer  
 
 ---
@@ -108,5 +105,3 @@ I am a Salesforce professional skilled in both **administration and development*
 <p align="left">
   <i>“Code with purpose, learn with curiosity, and build for impact.”</i>
 </p>
-
----
